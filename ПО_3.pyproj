@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="dataproc.py" />
     <Compile Include="factory.py" />
+    <Compile Include="interface.py" />
+    <Compile Include="processing.py" />
+    <Compile Include="strategy.py" />
     <Compile Include="ПО_3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
